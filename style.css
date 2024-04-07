@@ -1,0 +1,29 @@
+body{
+    background-image: url(bgepl.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-family: 'Great Vibes', cursive;
+    border: 2px solid brown;
+    background: rgb(159, 9, 9);
+    color: beige;
+    box-shadow: 1px 1px 2px gray;
+    border-radius: 10px;
+    padding: 3px 10px;
+    
+}
+h2{
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid brown;
+    background: rgb(159, 9, 9);
+    color: beige;
+    box-shadow: 1px 1px 2px gray;
+    border-radius: 10px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
